@@ -18,6 +18,11 @@ Hacktoberfest Classroom Project 2019
 [Ryan Karanja](https://github.com/Ryan-Karanja)
 ---
 
+### Aditya
+[Aditya Panda](https://github.com/Psibaba)
+> I'm not a great programmer; I'm just a good programmer with great habits.
+---
+
 ### Matthew
 [Believedshelf2](https://github.com/believedshelf2/)
 ---
